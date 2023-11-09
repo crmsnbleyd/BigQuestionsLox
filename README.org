@@ -1,0 +1,4 @@
+This repository contains an attempt to implement the language 'Lox' from the book [[https://craftinginterpreters.com][Crafting Interpreters]] by Robert Nystrom in [[https://mlochbaum.github.io/BQN][BQN]], an Iversonian array language
+
+* Goals
+- Learn both BQN and PLT through implementation
